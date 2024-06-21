@@ -2,6 +2,7 @@
 
 Essentially, it will consist of an ECS implementing various necessary systems, with a particular emphasis on a GPU-accelerated rendering system.
 
+
 The goal of this project is to explore various aspects of game architecture and hardware-accelerated rendering.
 
 Through this project, I aim to enhance my skills in:
